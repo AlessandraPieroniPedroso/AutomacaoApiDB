@@ -1,0 +1,10 @@
+Automação da Consulta de CEP da API Via Cep
+
+URL: https://viacep.com.br/ws/CEP/json
+
+Cenário 1: Consulta de CEP Válido
+Retorno esperado status code 200
+
+Cenário 2: Consulta de Cep inválido
+Retorno esperado status code 400
+
